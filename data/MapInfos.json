@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":2,"parentId":0,"scrollX":780,"scrollY":473.5},
+{"id":2,"expanded":true,"name":"001 - TheEnd - First Cutscene","order":3,"parentId":0,"scrollX":780,"scrollY":481.5,"quick":false},
+{"id":3,"expanded":false,"name":"Hall of Transference","order":1,"parentId":0,"scrollX":780,"scrollY":616.5,"quick":false},
+{"id":4,"expanded":false,"name":"Stone Cave","order":5,"parentId":0,"scrollX":800,"scrollY":1224.5,"quick":false},
+{"id":5,"expanded":false,"name":"Forest","order":6,"parentId":0,"scrollX":780,"scrollY":1308.5,"quick":false},
+{"id":6,"expanded":true,"name":"001 - TheEnd","order":4,"parentId":0,"scrollX":780,"scrollY":473.5,"quick":false}
+]
